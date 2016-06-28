@@ -5,7 +5,7 @@ ZoomToExtent does exactly what it says. It allows a user to draw the extent on t
 I got the idea, and majority of the code, of how to do it from the MapExtent project you can find here: https://github.com/ERS-Long/MapExtent
 
 Viwer Configuration Settings:
-
+```javascript
 			ZoomToExtent: {
 				include: true,
 				id: 'ZoomToExtent',
@@ -18,3 +18,4 @@ Viwer Configuration Settings:
 					map: true
 				}
 			},
+```
