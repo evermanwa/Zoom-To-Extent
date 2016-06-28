@@ -31,3 +31,4 @@ Then select the area you want to zoom the map to
 The map should now be zoomed to your desired extent
 
 ![Screenshot](./screenshots/ZoomToExtent.ZoomedPicture.png)
+ 
