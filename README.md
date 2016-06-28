@@ -19,3 +19,5 @@ Viwer Configuration Settings:
 				}
 			},
 ```
+
+![Screenshot](./screenshots/ZoomToExtent.ButtonClick.png)
