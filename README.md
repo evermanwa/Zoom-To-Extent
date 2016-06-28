@@ -1,5 +1,5 @@
 # ZoomToExtent
-Build and Tested against CMV 1.3.4
+Built and Tested against CMV 1.3.4
 
 ZoomToExtent does exactly what it says. It allows a user to draw the extent on their map in which they want to zoom to.
 
