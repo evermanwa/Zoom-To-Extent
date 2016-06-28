@@ -20,4 +20,14 @@ Viwer Configuration Settings:
 			},
 ```
 
+First Click on the zoom to extent button:
+
 ![Screenshot](./screenshots/ZoomToExtent.ButtonClick.png)
+
+Then select the area you want to zoom the map to
+
+![Screenshot](./screenshots/ZoomToExtent.SelectArea.png)
+
+The map should now be zoomed to your desired extent
+
+![Screenshot](./screenshots/ZoomToExtent.ZoomedPicture.png)
